@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rachit
+# 👋 Hi, I'm Rachit.
 
 🎯 AWS Solution Architect
 
